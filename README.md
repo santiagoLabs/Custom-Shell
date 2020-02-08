@@ -1,8 +1,7 @@
 # Custom-Shell
 Custom shell as a Python Script using os module
 
-Simple shell
-COMMANDS          ERRORS CHECKED
+COMMANDS 
 1. info XX         - check file/dir exists
 2. files
 3. delete  XX      - check file exists and delete succeeds
