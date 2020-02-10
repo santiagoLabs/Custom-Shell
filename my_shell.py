@@ -214,7 +214,7 @@ def get_file_type(filename):
 while True:
     dirpath = os.getcwd()
     base = os.path.basename(dirpath)
-    line = input(base + " SantiagoShell>")  # NOTE! This is only for python 2. Should be 'input' for python 3
+    line = input(base + " SantiagoShell>")  
     fields = line.split()
     # split the command into fields stored in the fields list
     # fields[0] is the command name and anything that follows (if it follows) is an argument to the command
