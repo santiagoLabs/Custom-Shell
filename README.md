@@ -15,4 +15,4 @@ COMMANDS
 Type any linux command - It will work! :)
 
 <b> Demo </b><br>
-
+<img src="images/screen.gif">
