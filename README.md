@@ -1,5 +1,5 @@
 # Custom-Shell
-Custom shell as a Python Script using OS module. In addition, it supports linux commands and run external programs.
+Custom shell as a Python Script using OS module. Also, it supports linux commands and run external programs.
 
 COMMANDS 
 1. info XX    - Checks file/dir exists
